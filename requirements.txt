@@ -1,0 +1,14 @@
+datasets==2.12.0
+pandas==1.5.3
+ipykernel==6.25.2
+numpy
+seaborn
+matplotlib
+scikit-learn
+sklearn
+torch
+gensim
+
+seqeval
+transformers
+petals
